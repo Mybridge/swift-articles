@@ -10,6 +10,7 @@ For the past month, we ranked nearly 900 Swift articles to pick the Top 10 stori
 <br>
 
 Course of the month:
+
 [A) Game Development:](http://bit.ly/2Cojl5j) Learn to build mobile games like Angry Birds, Crossy Road, Color Switch in Swift 4 & iOS11. _[655 recommends, 4.6/5 stars]_
 
 [B) Swift 4 Beginners:](http://bit.ly/2Geeohu) Learn to Program with Swift 4 with Xcode Playgrounds, in iOS 11. _[796 recommends, 4.7 stars]_
